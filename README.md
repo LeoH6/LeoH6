@@ -1,3 +1,8 @@
 -  Hi, I’m @LeoH6
-
-I code in python, javascript, HTMLS/CSS and C++
+  
+  languages:
+- Python,
+- Javascript,
+- HTMLS
+- CSS
+- C++
