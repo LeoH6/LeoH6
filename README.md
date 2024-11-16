@@ -2,7 +2,5 @@
   
   languages:
 - Python,
-- Javascript,
-- HTMLS
-- CSS
-- C++
+- Java, HTML, CSS,
+- C, C++
