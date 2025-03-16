@@ -1,7 +1,4 @@
--  Hi, I’m @LeoH6
-  
-  languages:
 - Python,
-- Java, HTML, CSS,
+- Javascript, HTML, CSS,
 - C, C++
 - Ue5
